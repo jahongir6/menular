@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <!-- app:showAsAction="always" bu kod -> yuqorida korinib turish uchun-->
+    <item
+        android:id="@+id/edit"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="tahrirlash" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="o'chirish" />
+</menu>
